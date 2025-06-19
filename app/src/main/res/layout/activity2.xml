@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+
+
+    <Button
+        android:id="@+id/listOfSongsButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="List of Songs" />
+
+    <Button
+        android:id="@+id/averageButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Average" />
+
+    <Button
+        android:id="@+id/returnToMainScreenButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Return to Main Screen" />
+
+    <TextView
+        android:id="@+id/songsTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Songs will be displayed here"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/averageRatingTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Average Rating will be displayed here"
+        android:textSize="16sp" />
+
+</LinearLayout>
