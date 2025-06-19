@@ -21,3 +21,4 @@ Average rating
 
 ![Screenshot 2025-06-19 131407](https://github.com/user-attachments/assets/ed573e16-1600-4cf3-af95-ababa43a7b5c)
 Detailed view screen
+i hope you enjoy using the app
