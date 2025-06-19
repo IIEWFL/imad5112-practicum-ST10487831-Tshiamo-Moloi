@@ -16,7 +16,7 @@ when you click on add to playlist this is what pops up
 ![Screenshot 2025-06-19 131800](https://github.com/user-attachments/assets/8950f646-771e-44fc-b0c5-0f47bfafe957)
 
 ![Screenshot 2025-06-19 131358](https://github.com/user-attachments/assets/899d73b4-a08f-41bd-bbb9-33b5ccfb523d)
-Average rating
+Average rating.
 
 
 ![Screenshot 2025-06-19 131407](https://github.com/user-attachments/assets/ed573e16-1600-4cf3-af95-ababa43a7b5c)
